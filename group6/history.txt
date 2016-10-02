@@ -1,0 +1,45 @@
+--------------------------
+Card PIN: 2323
+26/09/16 14:00:41
+Wash type: Standard
+Your have paid: 150 DKK
+--------------------------
+Card PIN: 2323
+26/09/16 14:41:08
+Wash type: Standard
+Your have paid: 150 DKK
+--------------------------
+Card PIN: 2323
+26/09/16 14:41:19
+Wash type: Express
+Your have paid: 100 DKK
+--------------------------
+Card PIN: 5678
+26/09/16 14:42:22
+Wash type: Express
+Your have paid: 100 DKK
+--------------------------
+Card PIN: 2323
+26/09/16 17:03:53
+Wash type: Express
+Your have paid: 100 DKK
+--------------------------
+Card PIN: 2323
+26/09/16 17:15:44
+Wash type: Standard
+Your have paid: 150 DKK
+--------------------------
+Card PIN: 2323
+26/09/16 17:46:47
+Wash type: Standard
+Your have paid: 150 DKK
+--------------------------
+Card PIN: 2323
+26/09/16 17:51:08
+Wash type: Express
+Your have paid: 100 DKK
+--------------------------
+Card PIN: 2323
+27/09/16 21:52:18
+Wash type: Express
+Your have paid: 0 DKK

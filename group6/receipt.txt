@@ -1,0 +1,12 @@
+THIS IS YOUR RECEIPT
+27/09/16 21:52:18
+Card PIN: 2323
+Wash Type: Express
+Your have paid 0 DKK
+
+Your Wash Card balance is: 250.0 DKK
+
+You have collected loyalty points total: 2
+
+Discounts: 0
+

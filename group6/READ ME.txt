@@ -1,0 +1,39 @@
+Car Wash Project - Group 7
+///////////////////////////
+Rolandas Gedgaudas Trockis
+Razvan Paduroiu
+Rene Michal Cehlar
+Remy-Mihai Voicu
+Ivan Andonov Andonov
+////////////////////////////
+
+
+Main method is in java file WashingSystem.
+
+"Washing System" reads the pincode of a washcard and recognizes it.
+
+In the main menu customer can choose washing types, check cards info and history ,
+which is readed from a file and do a top up ( to transfer money into the wash card).
+
+When customer chooses to go eash in the menu, and if there is a discounts in his cards info,
+he is asked if he would like to use discounts.
+If customer chooses to use discount then he pais 0 amount.
+
+
+Express type has 1 loyalty pont
+Standard has 1 loyalty point
+Perfect wash shine has 2.
+
+When customer buys a wash he gets the point or points.
+10 = 1 discount.
+1 discount = 1 standard wash for free.
+
+After a buy or a use of a discount the receipt is printed.
+It means the info is written into the receipt.txt file which is created 
+in the projects folder.
+
+And all the data of wash type is written in the history.txt file.
+
+
+Also there is an option to see a statistics.
+
